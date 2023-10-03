@@ -1,0 +1,8 @@
+username                        =       "gitlab_username_value"
+password                        =       "gitlab_password_value"
+address                         =       "https://gitlab_url_value/api/v4/projects/gitlab_project_id_value/terraform/state/BRANCH-gitlab_tf_state_name_value"
+lock_address                    =       "https://gitlab_url_value/api/v4/projects/gitlab_project_id_value/terraform/state/BRANCH-gitlab_tf_state_name_value/lock"
+unlock_address                  =       "https://gitlab_url_value/api/v4/projects/gitlab_project_id_value/terraform/state/BRANCH-gitlab_tf_state_name_value/lock"
+lock_method                     =       "gitlab_tf_back_lock_method_value"
+unlock_method                   =       "gitlab_tf_back_unlock_method_value"
+retry_wait_min                  =       "gitlab_tf_back_retry_wait_min_value"

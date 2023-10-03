@@ -1,0 +1,18 @@
+##############################################################################
+vcd_org_url                     =       "https://vcd_org_url_value/api"                 
+vcd_org_user                    =       "admin"                
+vcd_org_password                =       "vcd_org_password_value"            
+vcd_org_org                     =       "vcd_org_org_value"                 
+vcd_org_vdc                     =       "vcd_org_vdc_value"                 
+vcd_org_max_retry_timeout       =       "vcd_org_max_retry_timeout_value"   
+vcd_org_allow_unverified_ssl    =       "vcd_org_allow_unverified_ssl_value"
+vcd_org_edge_name               =       "vcd_org_edge_name_value"           
+vcd_org_catalog                 =       "vcd_org_catalog_value"             
+vcd_template_os_centos7         =       "vcd_template_os_centos7_value"     
+vcd_org_network                 =       "vcd_org_network_value"             
+vcd_vapp_name                   =       "vcd_vapp_name_value"               
+vm_admin_password               =       "vm_admin_password_value"
+dns_ip                          =       "dns_value"
+tsig_key                        =       "tsig-key."
+tsig_value                      =       "sAsdffdqxAdsgdfsdfsdfsdUEQ=="
+##############################################################################
