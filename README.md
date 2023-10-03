@@ -11,6 +11,8 @@ vcd:
 
 
 #####
+in cli:
+
 - export TF_CLI_CONFIG_FILE=./.terraformrc
 - terraform init  -backend-config=config.http.tfbackend -var-file=<(cat *.tfvars)
 - chmod 700 .terraform/providers/registry.terraform.io/hashicorp/*/*/*
