@@ -20,3 +20,5 @@ in cli:
 - terraform plan -var-file=<(cat *.tfvars)
 - terraform apply -auto-approve -var-file=<(cat *.tfvars)
 - terraform destroy  -auto-approve -target  vcd_vm.TestMultiStandalone -var-file=<(cat *.tfvars)
+
+![Screenshot](./vms/ip.txt)
